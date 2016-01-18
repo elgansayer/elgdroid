@@ -1,0 +1,13 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AppDisplaySettings	AppDisplaySettings.java	/^public class AppDisplaySettings extends SettingsPreferenceFragment {$/;"	c
+com.android.settings.elgan	AppDisplaySettings.java	/^package com.android.settings.elgan;$/;"	p
+getMetricsCategory	AppDisplaySettings.java	/^    protected int getMetricsCategory() {$/;"	m	class:AppDisplaySettings
+onActivityCreated	AppDisplaySettings.java	/^    public void onActivityCreated(Bundle savedInstanceState) {$/;"	m	class:AppDisplaySettings
+onCreate	AppDisplaySettings.java	/^    public void onCreate(Bundle savedInstanceState) {$/;"	m	class:AppDisplaySettings
+onResume	AppDisplaySettings.java	/^    public void onResume() {$/;"	m	class:AppDisplaySettings
+updateDependents	AppDisplaySettings.java	/^    private void updateDependents(boolean banned) {$/;"	m	class:AppDisplaySettings	file:
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
